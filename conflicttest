@@ -1,10 +1,5 @@
 Hello,
 This is for conflict test
-<<<<<<< HEAD
-conflict1
-conflictest2
-conflicttest3
-=======
 
 conflicttest3
->>>>>>> 1aec586 (Update conflicttest)
+
