@@ -1,6 +1,7 @@
 Hello,
 This is for conflict test
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 conflicttest3+2
 =======
@@ -8,3 +9,7 @@ conflict1
 conflictest2
 conflicttest3
 >>>>>>> b1
+=======
+
+conflicttest3
+>>>>>>> c3376e56c78ee2bda92360202d66fd2dfcdc2862
